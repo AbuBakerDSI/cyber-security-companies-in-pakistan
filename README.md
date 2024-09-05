@@ -21,6 +21,7 @@ A list of cyber security companies or companies that have their own Cyber Securi
     <li><a href="https://compliancewing.com/" target="_blank">ComplianceWing</a></li>
     <li><a href="https://www.systemsltd.com/" target="_blank">System.Ltd</a></li>
     <li><a href="https://www.kualitatem.com/" target="_blank">Kualitatem PTV LTD</a></li>
+    <li><a href="https://www.yottabyte.ae/" target="_blank">YottaByte Pvt Ltd</a></li>
 </ol>
 
 <h2>Companies that are providing SOC Services</h2>
@@ -32,6 +33,7 @@ A list of cyber security companies or companies that have their own Cyber Securi
     <li><a href="https://www.systemsltd.com/" target="_blank">System.Ltd</a></li>
     <li><a href="https://www.kualitatem.com/" target="_blank">Kualitatem PTV LTD</a></li>
     <li><a href="https://www.commtel.ae/" target="_blank">Commtel LLC</a></li>
+    <li><a href="https://www.yottabyte.ae/" target="_blank">YottaByte Pvt Ltd</a></li>
 </ol>
 
 <h2>Companies that have their own Security Department</h2>
@@ -47,6 +49,7 @@ A list of cyber security companies or companies that have their own Cyber Securi
     <li><a href="https://www.dibpak.com/index.php/careers/" target="_blank">Dubai Islamic Bank</a></li>
     <li><a href="https://www.kualitatem.com/" target="_blank">Kualitatem PTV LTD</a></li>
     <li><a href="https://www.ffbl.com/ffbl-careers/" target="_blank">Fauji Fertilizer Bin Qasim Ltd</a></li>
+    <li><a href="https://www.yottabyte.ae/" target="_blank">YottaByte Pvt Ltd</a></li>
 </ol>
 
 <h2>How to Contribute</h2>
